@@ -1,2 +1,2 @@
 # Employee-Management-System
-JDBC with basic CRUD operations
+JDBC and basic CRUD operations with singleton pattern Databse connectivity
